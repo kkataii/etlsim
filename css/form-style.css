@@ -1,0 +1,64 @@
+@import url("../font/NotoSansLao/noto-font.css");
+
+.page-header {
+	/*font-family: Phetsarath_OT, Verdana,sans-serif;*/
+	font-family: 'Noto Regular', Verdana, Arial, sans-serif;
+	font-size: calc(1rem + 0.6vw);
+	padding-bottom: 8px;
+	margin: 20px 0 20px;
+	border-bottom: 1px solid rgb(20, 54, 165);
+	font-weight: 400;
+	color: rgb(20, 54, 165);
+}
+select{
+	display: block;
+	height: 40px;
+}
+.search{
+	position: relative;
+	width: 100%;
+	margin: 0 10px;
+}
+.search label{
+	position: relative;
+	width: 100%;
+	padding-right: 15px;
+}
+.search label input{
+	width: 100%;
+	height: 40px;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	padding: 5px 20px;
+	padding-left: 35px;
+	font-size: 14px;
+	outline: none;
+	border: 1px solid #c0c0c0;
+}
+.search label i{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	font-size: 1.2em;
+}
+
+legend .enablealltopup, .enableExchange, .enableOnetoMany, .enOnetoManyManual{
+	cursor: pointer;
+}
+
+legend .enablealltopup, .enableExchange, .enableOnetoMany, .enOneMoreAuto{
+	cursor: pointer;
+}
+
+ select{
+	cursor: pointer;
+}
+.input-group-addon{
+	font-size: 25px;
+	
+}
+.input-group-addon i{
+	margin-left: -30px;
+}

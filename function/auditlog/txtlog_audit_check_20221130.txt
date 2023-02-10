@@ -1,0 +1,3 @@
+--------------------- 2022-11-30 01:59:45 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultPost: txtaudit_id=etl221129-ac8beed7-kyc050622, txtaudit_msisdn= 2029929488, txtaudit_fname= saiyee, txtaudit_lname= nailor, txtaudit_gender= 1, txtaudit_birthday= 2005-01-01, txtaudit_docttype= 12, txtaudit_docno= 88888, txtaudit_job= no, txtaudit_email= , txtaudit_simtype_id= 2, txtaudit_prov_id= 1, txtaudit_district= 1, txtaudit_village= 1, txtaudit_state= 2, txtaudit_sms_id= 1, txtaudit_user= etlkyc221012122055df32f6f5 

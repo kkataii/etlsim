@@ -1,0 +1,3 @@
+--------------------- 2022-12-06 23:24:53 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultPost: txtaudit_id=etl221205-400467b7-kyc074820, txtaudit_msisdn= 2029934353, txtaudit_fname= vang, txtaudit_lname= nong, txtaudit_gender= 1, txtaudit_birthday= 2005-01-06, txtaudit_docttype= 12, txtaudit_docno= 1234, txtaudit_job= empty job , txtaudit_email= , txtaudit_simtype_id= 2, txtaudit_prov_id= 21, txtaudit_district= 2104, txtaudit_village= 2101173, txtaudit_state= 2, txtaudit_sms_id= 1, txtaudit_user=  

@@ -1,0 +1,163 @@
+--------------------- 2022-11-30 13:05:55 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultSqlUpdate: UPDATE tb_subscriber_info SET fname= 'saiyee', 
+    			lname= 'nailor', 
+    			 gender_id= '1', 
+    			 birthday= '2005-01-01', 
+    			 document_id= '12', 
+    			 document_no= '88888', 
+    			 occupation= 'no', 
+    			 email= '', 
+    			 simtype_id= '2', 
+    			 province_id= '21', 
+    			 district_id= '2106', 
+    			 village_id= '2101268', 
+    			 remark= '', 
+    			 channel_id= '1', 
+    			 status_id= '2', 
+    			 sub_type_id= '1', 
+    			 user_id_edit= 'etlkyc221012122055df32f6f5'
+    			  WHERE ids='etl221129-ac8beed7-kyc050622' AND msisdn='2029929488' 
+--------------------- 2022-11-30 13:11:43 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultSqlUpdate: UPDATE tb_subscriber_info SET fname= 'saiyee', 
+    			lname= 'nailor', 
+    			 gender_id= '1', 
+    			 birthday= '2005-01-01', 
+    			 document_id= '12', 
+    			 document_no= '88888', 
+    			 occupation= 'no', 
+    			 email= '', 
+    			 simtype_id= '2', 
+    			 province_id= '21', 
+    			 district_id= '2106', 
+    			 village_id= '2101268', 
+    			 remark= '', 
+    			 channel_id= '1', 
+    			 status_id= '2', 
+    			 sub_type_id= '1', 
+    			 user_id_edit= 'etlkyc221012122055df32f6f5'
+    			  WHERE ids='etl221129-ac8beed7-kyc050622' AND msisdn='2029929488' 
+--------------------- 2022-11-30 13:15:59 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultSqlUpdate: UPDATE tb_subscriber_info SET fname= 'saiyee', 
+    			 lname= 'nailor', 
+				 gender_id= '1', 
+				 birthday= '2005-01-01', 
+				 document_id= '12', 
+				 document_no= '88888', 
+				 occupation= 'no', 
+				 email= '', 
+				 simtype_id= '2', 
+				 province_id= '23', 
+				 district_id= '2310', 
+				 village_id= '2101862', 
+				 remark= 'test', 
+				 channel_id= '1', 
+				 status_id= '2', 
+				 sub_type_id= '1', 
+				 user_id_edit= 'etlkyc221012122055df32f6f5'
+    			 WHERE ids='etl221129-ac8beed7-kyc050622' AND msisdn='2029929488' 
+--------------------- 2022-11-30 13:17:28 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultSqlUpdate: UPDATE tb_subscriber_info SET fname= 'saiyee', 
+    			 lname= 'nailor', 
+				 gender_id= '1', 
+				 birthday= '2005-01-01', 
+				 document_id= '12', 
+				 document_no= '88888', 
+				 occupation= 'no', 
+				 email= '', 
+				 simtype_id= '2', 
+				 province_id= '23', 
+				 district_id= '2310', 
+				 village_id= '2101862', 
+				 remark= 'test 123456', 
+				 channel_id= '1', 
+				 status_id= '2', 
+				 sub_type_id= '1', 
+				 user_id_edit= 'etlkyc221012122055df32f6f5'
+    			 WHERE ids='etl221129-ac8beed7-kyc050622' AND msisdn='2029929488' 
+--------------------- 2022-11-30 13:19:14 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultSqlUpdate: UPDATE tb_subscriber_info SET fname= 'xaycuevang', 
+    			 lname= 'amnong', 
+				 gender_id= '1', 
+				 birthday= '1999-01-10', 
+				 document_id= '12', 
+				 document_no= '0505', 
+				 occupation= 'employee', 
+				 email= '', 
+				 simtype_id= '2', 
+				 province_id= '21', 
+				 district_id= '2101', 
+				 village_id= '2101027', 
+				 remark= 'test', 
+				 channel_id= '1', 
+				 status_id= '2', 
+				 sub_type_id= '1', 
+				 user_id_edit= 'etlkyc221012122055df32f6f5'
+    			 WHERE ids='etl221129-bcd56662-kyc050244' AND msisdn='2029934353' 
+--------------------- 2022-11-30 13:24:11 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultSqlUpdate: UPDATE tb_subscriber_info SET fname= 'eie9e', 
+    			 lname= 'uiriir', 
+				 gender_id= '2', 
+				 birthday= '2005-01-22', 
+				 document_id= '12', 
+				 document_no= '123', 
+				 occupation= '8ee7e8', 
+				 email= '', 
+				 simtype_id= '2', 
+				 province_id= '23', 
+				 district_id= '2310', 
+				 village_id= '2101862', 
+				 remark= 'test', 
+				 channel_id= '1', 
+				 status_id= '2', 
+				 sub_type_id= '1', 
+				 user_id_edit= 'etlkyc221012122055df32f6f5'
+    			 WHERE ids='etl221128-e4d44cd7-kyc072416' AND msisdn='2022221495' 
+ 3.User_Edit_id: etlkyc221012122055df32f6f5 
+--------------------- 2022-11-30 13:45:58 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultSqlUpdate: UPDATE tb_subscriber_info SET fname= 'saiyee', 
+    			 lname= 'nailor', 
+				 gender_id= '1', 
+				 birthday= '2005-01-01', 
+				 document_id= '12', 
+				 document_no= '88888', 
+				 occupation= 'no', 
+				 email= '', 
+				 simtype_id= '2', 
+				 province_id= '23', 
+				 district_id= '2310', 
+				 village_id= '2101862', 
+				 remark= 'test 123', 
+				 channel_id= '1', 
+				 status_id= '2', 
+				 sub_type_id= '1', 
+				 user_id_edit= 'etlkyc221012122055df32f6f5'
+    			 WHERE ids='etl221129-ac8beed7-kyc050622' AND msisdn='2029929488' 
+ 3.User_Edit_id: etlkyc221012122055df32f6f5 
+--------------------- 2022-11-30 14:50:33 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultSqlUpdate: UPDATE tb_subscriber_info SET fname= 'saiyee', 
+    			 lname= 'nailor', 
+				 gender_id= '1', 
+				 birthday= '2005-01-01', 
+				 document_id= '12', 
+				 document_no= '88888', 
+				 occupation= 'no', 
+				 email= '', 
+				 simtype_id= '2', 
+				 province_id= '23', 
+				 district_id= '2310', 
+				 village_id= '2101862', 
+				 remark= 'test 123 ttt', 
+				 channel_id= '1', 
+				 status_id= '2', 
+				 sub_type_id= '1', 
+				 user_id_edit= 'etlkyc221012122055df32f6f5'
+    			 WHERE ids='etl221129-ac8beed7-kyc050622' AND msisdn='2029929488' 
+ 3.User_Edit_id: etlkyc221012122055df32f6f5 

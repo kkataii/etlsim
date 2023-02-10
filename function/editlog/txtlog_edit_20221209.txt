@@ -1,0 +1,21 @@
+--------------------- 2022-12-09 23:58:50 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultSqlUpdate: UPDATE tb_subscriber_info SET fname= 'ຊື່ອົງກອນ', 
+    			 lname= 'ຊື່ ແລະ ນາມສະກຸນ1', 
+				 gender_id= '1', 
+				 birthday= '1/12/1987', 
+				 document_id= '1', 
+				 document_no= '00012', 
+				 occupation= 'ພະນັກງານລັດ', 
+				 email= 'Hello@123.com', 
+				 simtype_id= '1', 
+				 province_id= '21', 
+				 district_id= '2101', 
+				 village_id= '2101001', 
+				 remark= 'dsjvijo', 
+				 channel_id= '3', 
+				 status_id= '2', 
+				 sub_type_id= '2', 
+				 user_id_edit= 'etlkyc221012122055df32f6f5'
+    			 WHERE ids='etl221209-bfb7582c-kyc091921' AND msisdn='2022221495' 
+ 3.User_Edit_id: etlkyc221012122055df32f6f5 

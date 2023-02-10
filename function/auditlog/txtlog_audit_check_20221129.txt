@@ -1,0 +1,6 @@
+--------------------- 2022-11-29 01:21:47 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultPost: txtaudit_id=etl221128-ef455285-kyc031559, txtaudit_msisdn= 2022221495, txtaudit_fname= ໄນ​ລໍ່, txtaudit_lname= ໄຊ​ຢີ, txtaudit_gender= 1, txtaudit_birthday= 2005-01-14, txtaudit_docttype= 12, txtaudit_docno= 123456, txtaudit_job= ວ່າງງານ, txtaudit_email= test@uk.lao, txtaudit_simtype_id= 2, txtaudit_prov_id= 23, txtaudit_district= 2310, txtaudit_village= 2101862, txtaudit_state= 2, txtaudit_sms_id= 1, txtaudit_user= etlkyc22111008344040bf7806 
+--------------------- 2022-11-29 17:39:30 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultPost: txtaudit_id=etl221129-bcd56662-kyc050244, txtaudit_msisdn= 2029934353, txtaudit_fname= xaycuevang, txtaudit_lname= amnong, txtaudit_gender= 1, txtaudit_birthday= 1999-01-10, txtaudit_docttype= 12, txtaudit_docno= 0505, txtaudit_job= employee, txtaudit_email= , txtaudit_simtype_id= 2, txtaudit_prov_id= 21, txtaudit_district= 2101, txtaudit_village= 2101027, txtaudit_state= 2, txtaudit_sms_id= 1, txtaudit_user= etlkyc221012122055df32f6f5 

@@ -1,0 +1,3 @@
+--------------------- 2022-12-30 16:02:58 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultPost: txtaudit_id=etl221230-7ac8c1ba-kyc045900, txtaudit_msisdn= 2028129326, txtaudit_fname= kkataiyy , txtaudit_lname= Pmch, txtaudit_gender= 0, txtaudit_birthday= 1999/09/19, txtaudit_docttype= 12, txtaudit_docno= 123456789, txtaudit_job= abc, txtaudit_email= , txtaudit_simtype_id= 2, txtaudit_prov_id= 1, txtaudit_district= 1, txtaudit_village= 1, txtaudit_state= 2, txtaudit_sms_id= 1, txtaudit_user= etlkyc221012122055df32f6f5 

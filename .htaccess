@@ -1,0 +1,6 @@
+#How To Remove Php Extension From Url Without Htaccess
+RewriteEngine on
+#RewriteRule ^(.*)\$ $1.php 
+
+# Disable Directory Browsing
+Options All -Indexes

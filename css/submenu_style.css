@@ -1,0 +1,101 @@
+/*@import url("../font/style.css");*/
+@import url("../font/NotoSansLao/noto-font.css");
+
+.my-content .cardBox{
+	position: relative;
+	margin-right: 10px;
+	width: 100%;
+	padding: 20px;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 20px;
+}
+.my-content .cardBox .card{
+	position: relative;
+	min-width: 100px;
+	min-height: 100px;
+	text-align: center;
+	background: #0099cc;
+	padding: 20px 10px;
+	margin-top: 20px;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	display: flex;
+	justify-content: space-between;
+	cursor: pointer;
+	box-shadow: 0.7px 10px rgba(0, 0, 0,0.08);
+	-moz-box-shadow: 0.7px 10px rgba(0, 0, 0,0.08);
+	-webkit-box-shadow: 0.7px 10px rgba(0, 0, 0,0.08);
+	-o-box-shadow: 0.7px 10px rgba(0, 0, 0,0.08);
+	-ms-box-shadow: 0.7px 10px rgba(0, 0, 0,0.08);
+}
+.my-content .cardBox a{
+	 font-size: calc(0.6rem + 0.6vw);
+	text-decoration: none;
+}
+.my-content .cardBox .card{
+	position: relative;
+}
+
+.my-content .cardBox .card .icon-sub-menu{
+	position: relative;
+	font-weight: 300;
+	font-size: 1.5em;
+	color: #fff;
+}
+
+.my-content .cardBox .card .cardName{
+	color: #fff;
+	font-size: 1em;
+	margin-top: 10px;
+}
+.my-content .cardBox .card .iconBx{
+	font-size: 3.5em;
+	color: var(--black2);
+}
+.my-content .cardBox .card:hover{
+	/*background: var(--blue);*/
+	background-color: #80e5ff;
+}
+.my-content .cardBox .card:hover .icon-sub-menu,
+.my-content .cardBox .card:hover .cardName,
+.my-content .cardBox .card:hover .iconBx{
+	color: #0099cc;
+}
+@media (max-width:850px) {
+   .my-content .cardBox{
+		position: relative;
+		margin-right: 10px;
+		width: 100%;
+		padding: 20px;
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		grid-gap: 20px;
+	}
+}
+
+@media (max-width:650px) {
+    .my-content .cardBox{
+		position: relative;
+		margin-right: 10px;
+		width: 90%;
+		padding: 20px;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		grid-gap: 20px;
+	}
+}
+
+@media (max-width:390px) {
+    .my-content .cardBox{
+		position: relative;
+		margin-right: 10px;
+		width: 90%;
+		padding: 10px;
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+		grid-gap: 20px;
+	}
+}

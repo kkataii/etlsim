@@ -1,0 +1,9 @@
+--------------------- 2022-11-28 16:52:36 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultPost: txtaudit_id=etl221128-c9361cf4-kyc031158, txtaudit_msisdn= 2022221495, txtaudit_fname= ວ່າງ, txtaudit_lname= ນົນ, txtaudit_gender= 2, txtaudit_birthday= 2005-01-28, txtaudit_docttype= 12, txtaudit_docno= 1000, txtaudit_job= ວ່າງງານ, txtaudit_email= , txtaudit_simtype_id= 2, txtaudit_prov_id= 36, txtaudit_district= 3601, txtaudit_village= 2103217, txtaudit_state= 3, txtaudit_sms_id= 28, txtaudit_user= etlkyc221012122055df32f6f5 
+--------------------- 2022-11-28 16:53:36 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultPost: txtaudit_id=etl221128-c9361cf4-kyc031158, txtaudit_msisdn= 2022221495, txtaudit_fname= ວ່າງ, txtaudit_lname= ນົນ, txtaudit_gender= 2, txtaudit_birthday= 2005-01-28, txtaudit_docttype= 12, txtaudit_docno= 1000, txtaudit_job= ວ່າງງານ, txtaudit_email= , txtaudit_simtype_id= 2, txtaudit_prov_id= 36, txtaudit_district= 3601, txtaudit_village= 2103217, txtaudit_state= 3, txtaudit_sms_id= 28, txtaudit_user= etlkyc221012122055df32f6f5 
+--------------------- 2022-11-28 17:14:49 --------------------- 
+ 1. resultupdate: 1 
+ 2.resultPost: txtaudit_id=etl221128-ef455285-kyc031559, txtaudit_msisdn= 2022221495, txtaudit_fname= ໄນ​ລໍ່, txtaudit_lname= ໄຊ​ຢີ, txtaudit_gender= 1, txtaudit_birthday= 2005-01-14, txtaudit_docttype= 12, txtaudit_docno= 123456, txtaudit_job= ວ່າງງານ, txtaudit_email= , txtaudit_simtype_id= 2, txtaudit_prov_id= 21, txtaudit_district= 2106, txtaudit_village= 2101268, txtaudit_state= 3, txtaudit_sms_id= 28, txtaudit_user= etlkyc221012122055df32f6f5 
